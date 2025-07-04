@@ -21,3 +21,33 @@ criaCartao(
     'Em que ano Jair Bolsonaro foi eleito presidente?',
     'Jair Bolsonaro foi eleito presidente do Brasil em 2018.'
 )
+
+criaCartao(
+    'Política',
+    'Qual o nome completo de Jair Bolsonaro?',
+    'O nome completo é Jair Messias Bolsonaro.'
+)
+
+criaCartao(
+    'Política',
+    'Quantos filhos Jair Bolsonaro tem?',
+    'Jair Bolsonaro tem cinco filhos.'
+)
+
+criaCartao(
+    'Política',
+    'Em qual estado brasileiro Jair Bolsonaro nasceu?',
+    'Jair Bolsonaro nasceu no estado de São Paulo.'
+)
+
+criaCartao(
+    'Política',
+    'Qual cargo Jair Bolsonaro ocupou antes de ser presidente?',
+    'Antes de ser presidente, Jair Bolsonaro foi deputado federal pelo Rio de Janeiro.'
+)
+
+criaCartao(
+    'Política',
+    'Quem foi o vice-presidente durante o governo de Jair Bolsonaro?',
+    'O vice-presidente foi Hamilton Mourão.'
+)
